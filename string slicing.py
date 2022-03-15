@@ -1,0 +1,10 @@
+var='Ajay'
+print(var)
+print(var[0])
+print(var[-1])
+print(var[0:])
+print(var[0:2])
+print(var[-1:])
+print(var[:-1])
+print(var[::3])
+print(var[::-1])
